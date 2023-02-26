@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bertrand836
-- 👀 I’m interested in ...JS, Python
-- 🌱 I’m currently learning ...JS & Python
+- 👀 I’m interested in ...JS
+- 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...new project and I am a beginner
 - 📫 How to reach me ...b.royer.photo@gmail.com
 
